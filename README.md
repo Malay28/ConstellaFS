@@ -1,4 +1,4 @@
-# EC-Team-45-Yet-Another-Distributed-File-System-YADFS-
+# ConstellaFS
 
 1. Start namenode
 2. Start client
